@@ -1,0 +1,1 @@
+This program is made to determine the next semester available courses for AIUB cse bachelor's program . The program takes manual input , when inputed the completed courses available courses for next semester is showed
